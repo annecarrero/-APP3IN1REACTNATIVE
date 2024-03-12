@@ -1,4 +1,3 @@
-// App.js
 import React, { useState } from 'react';
 import { StyleSheet, Text, View, TextInput, Button } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
@@ -145,7 +144,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#b814147b', 
   },
   title: {
-    fontSize: 20,
+    fontSize: 60,
     fontWeight: 'bold',
     marginBottom: 20,
     color: '#b81414', 
